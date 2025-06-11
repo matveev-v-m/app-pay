@@ -16,7 +16,7 @@
 1. Клонируйте репозиторий:
    ```bash   
    git clone https://github.com/matveev-v-m/app-pay.git
-2. Установите npm пакеты:
+2. Установите зависимости:
     ```bash
     npm install
 3. Запустите проект:
